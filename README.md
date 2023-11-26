@@ -1,8 +1,8 @@
 # Path-Planning
 
-1.First mouse click will mark the starting point.
-2.Second mouse click will mark the ending point.
-3.All the othet mouse click will help the user to make barriers.
+1.First mouse click will mark the starting point./n
+2.Second mouse click will mark the ending point./n
+3.All the othet mouse click will help the user to make barriers./n
 4.After the barriers are made, press "SPACE" to start path analysis.
 
 5.Red colored are is the area that has alredy been scanned.
